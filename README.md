@@ -1,4 +1,4 @@
-## Hi there 👋
+## CALL ME SENPAI 👋
 👋 Hello, I'm Joe Muraya!
 🚀 Odoo Implementor | Learning Developer | Anime Techie | Gamer | Digital Marketer
 🌍 Based in Kenya, I'm passionate about empowering businesses and communities by combining cutting-edge technology with creativity.
