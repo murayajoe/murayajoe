@@ -2,8 +2,9 @@
 👋 Hello, I'm Joe Muraya!
 🚀 Odoo Implementor | Learning Developer | Anime Techie | Gamer | Digital Marketer
 🌍 Based in Kenya, I'm passionate about empowering businesses and communities by combining cutting-edge technology with creativity.
-
-💡 About Me
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=murayajoe"/>
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murayajoe"/>
+<!--💡 About Me
 Odoo Expert: With over 2 years  of experience, I specialize in Odoo functional implementation, customization, and development.
 Tech Enthusiast: From cloud platforms like AWS to open-source frameworks, I thrive on building impactful digital solutions.
 Content Creator: As an OG Anime Techie, I share my love for anime, gaming, and tech on TikTok, YouTube, and Instagram.
@@ -24,10 +25,10 @@ Vision: Inspiring pride in African businesses and democratizing access to advanc
 🎥 TikTok: https://www.tiktok.com/kenyansenpai
 📺 YouTube: https://www.youtube.com/@kenyansenpai
 👾 Fun Fact
-I’m a gamer at heart, currently exploring the open-world magic of Horizon Forbidden West and Wuthering Waves on PS5.
+I’m a gamer at heart, currently exploring the open-world magic of Horizon Forbidden West and Wuthering Waves on PS5.-->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murayajoe)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **murayajoe/murayajoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
