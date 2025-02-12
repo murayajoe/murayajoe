@@ -1,46 +1,46 @@
 ## CALL ME SENPAI 👋
-👋 Hello, I'm Joe Muraya!
-🚀 Odoo Implementor | Learning Developer | Anime Techie | Gamer | Digital Marketer
-🌍 Based in Kenya, I'm passionate about empowering businesses and communities by combining cutting-edge technology with creativity.
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=murayajoe"/>
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murayajoe"/>
-<!--💡 About Me
-Odoo Expert: With over 2 years  of experience, I specialize in Odoo functional implementation, customization, and development.
-Tech Enthusiast: From cloud platforms like AWS to open-source frameworks, I thrive on building impactful digital solutions.
-Content Creator: As an OG Anime Techie, I share my love for anime, gaming, and tech on TikTok, YouTube, and Instagram.
-Innovator: From developing marketing strategies to creating IT solutions, I aim to inspire pride in African businesses while democratizing technology.
-🔧 Technologies & Tools
-Programming: Python, JavaScript, PostgreSQL
-Platforms: AWS, Odoo, HubSpot, Brevo
-Other Skills: GitLab, Digital Marketing, and IT Integrations
-🌟 My Mission & Vision
-Mission: To enable businesses to realize their IT potential through cutting-edge technology and proven frameworks.
-Vision: Inspiring pride in African businesses and democratizing access to advanced technologies.
 
-🌐 Connect With Me
-📧 Email: joemuraya90@gmail.com
-🌍 Portfolio: [Coming Soon]
-🐦 Twitter: https://www.x.com/kenyansenpai
-📸 Instagram: https://www.instagram.com/kenyansenpai
-🎥 TikTok: https://www.tiktok.com/kenyansenpai
-📺 YouTube: https://www.youtube.com/@kenyansenpai
-👾 Fun Fact
-I’m a gamer at heart, currently exploring the open-world magic of Horizon Forbidden West and Wuthering Waves on PS5.-->
+👋 Hello, I'm **Joe Muraya!**
 
+🚀 **Odoo Implementor | Learning Developer | Anime Techie | Gamer | Digital Marketer**
 
+🌍 Based in **Kenya**, I'm passionate about empowering businesses and communities by combining **cutting-edge technology** with creativity.
 
+---
 
-<!--
-**murayajoe/murayajoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **Tech Stack & Skills**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-7F2C8C?style=for-the-badge&logo=odoo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 **GitHub Stats**
+
+<img alt="My GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=murayajoe&show_icons=true&theme=radical" />
+<img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murayajoe&layout=compact&theme=radical" />
+
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=murayajoe&theme=radical" />
+
+---
+
+### 🎮 **Gaming & Content Creation**
+🎥 **YouTube:** [Kenyan Senpai](https://www.youtube.com/channel/UCyourchannel) *(Game the Kenyan Way!)*  
+🎮 **Twitch:** [Kenyansenpai](https://www.twitch.tv/kenyansenpai)  
+📱 **TikTok & Instagram:** [@kenyansenpai](https://www.tiktok.com/@kenyansenpai)  
+
+---
+
+### 📫 **Let's Connect!**
+💼 **LinkedIn:** [Joe Muraya](https://www.linkedin.com/in/murayajoe/)  
+🐦 **Twitter/X:** [@kenyansenpai](https://twitter.com/kenyansenpai)  
+📩 **Email:** joemuraya90@gmail.com
+
+---
+
+🔥 _"Empowering businesses and communities through technology & creativity."_
