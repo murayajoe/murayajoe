@@ -30,14 +30,14 @@
 ---
 
 ### 🎮 **Gaming & Content Creation**
-🎥 **YouTube:** [Kenyan Senpai](https://www.youtube.com/channel/UCyourchannel) *(Game the Kenyan Way!)*  
+🎥 **YouTube:** [Kenyan Senpai](https://www.youtube.com/channel/@kenyansenpai) *(Game the Kenyan Way!)*  
 🎮 **Twitch:** [Kenyansenpai](https://www.twitch.tv/kenyansenpai)  
 📱 **TikTok & Instagram:** [@kenyansenpai](https://www.tiktok.com/@kenyansenpai)  
 
 ---
 
 ### 📫 **Let's Connect!**
-💼 **LinkedIn:** [Joe Muraya](https://www.linkedin.com/in/murayajoe/)  
+💼 **LinkedIn:** [Joe Muraya](https://www.linkedin.com/in/joe-muraya-312400164/))  
 🐦 **Twitter/X:** [@kenyansenpai](https://twitter.com/kenyansenpai)  
 📩 **Email:** joemuraya90@gmail.com
 
