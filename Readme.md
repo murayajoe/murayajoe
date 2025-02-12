@@ -2,13 +2,13 @@
 
 👋 Hello, I'm **Joe Muraya!**
 
-🚀 **Odoo Implementor | Learning Developer | Anime Techie | Gamer | Digital Marketer**
+🚀 Odoo Implementor | Systems Developer | Anime Techie | Gamer | Social Media Guru
 
 🌍 Based in **Kenya**, I'm passionate about empowering businesses and communities by combining **cutting-edge technology** with creativity.
 
 ---
 
-### 🚀 **Tech Stack & Skills**
+### 🚀 Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
