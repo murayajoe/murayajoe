@@ -9,23 +9,19 @@
 ---
 
 ### 🚀 Tech Stack & Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-7F2C8C?style=for-the-badge&logo=odoo&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,odoo,aws,linux,github&theme=dark" alt="Tech Stack Icons" />
+</p>
 
 ---
 
 ### 📊 **GitHub Stats**
 
-<img alt="My GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=murayajoe&show_icons=true&theme=radical" />
-<img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murayajoe&layout=compact&theme=radical" />
-
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=murayajoe&theme=radical" />
+<p align="center">
+  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=murayajoe&show_icons=true&theme=radical" />
+  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murayajoe&layout=compact&theme=radical" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=murayajoe&theme=radical" />
+</p>
 
 ---
 
@@ -36,10 +32,39 @@
 
 ---
 
+### 🎶 **Now Playing on Spotify**
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</p>
+
+---
+
+### 📟 **ASCII Terminal Animation**
+```bash
+> neofetch
+             .--.
+            |o_o |
+            |:_/ |
+           //   \ \
+          (|     | )
+         /'\_   _/`\
+         \___)=(___/
+> Hello, I'm Kenyan Senpai! 🚀
+```
+
+---
+
+### 🏃‍♂️ **Animated Walking 2D Character**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/ezgif-4-5378b3789d.gif" width="150" />
+</p>
+
+---
+
 ### 📫 **Let's Connect!**
-💼 **LinkedIn:** [Joe Muraya](https://www.linkedin.com/in/joe-muraya-312400164/))  
+💼 **LinkedIn:** [Joe Muraya](https://www.linkedin.com/in/joe-muraya-312400164/)  
 🐦 **Twitter/X:** [@kenyansenpai](https://twitter.com/kenyansenpai)  
-📩 **Email:** joemuraya90@gmail.com
+📩 **Email:** joemuraya90@gmail.com  
 
 ---
 
