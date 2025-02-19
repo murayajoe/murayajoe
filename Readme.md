@@ -54,7 +54,7 @@
 
 ---
 
-### 🏃‍♂️ **Animated Walking 2D Character**
+### 🏃‍♂️ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/ezgif-4-5378b3789d.gif" width="150" />
 </p>
