@@ -25,7 +25,11 @@
 <img alt="My GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=murayajoe&show_icons=true&theme=radical" />
 <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murayajoe&layout=compact&theme=radical" />
 
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=murayajoe&theme=radical" />
+## 📈 GitHub Streak
+
+![GitHub Streak](https://img.shields.io/badge/dynamic/json?color=radical&label=Streak&query=streak&url=https://api.github.com/users/murayajoe/events)
+
+
 
 ---
 
@@ -37,7 +41,7 @@
 ---
 
 ### 📢 **Let's Connect!**
-💼 **LinkedIn:** [Joe Muraya](https://www.linkedin.com/in/joe-muraya-312400164/))  
+💼 **LinkedIn:** [Joe Muraya](https://www.linkedin.com/in/joe-muraya-312400164/)  
 🐦 **Twitter/X:** [@kenyansenpai](https://twitter.com/kenyansenpai)  
 📩 **Email:** joemuraya90@gmail.com
 
