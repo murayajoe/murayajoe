@@ -27,8 +27,7 @@
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://img.shields.io/badge/dynamic/json?color=radical&label=Streak&query=streak&url=https://api.github.com/users/murayajoe/events)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=murayajoe)](https://git.io/streak-stats)
 
 
 ---
