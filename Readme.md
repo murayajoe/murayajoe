@@ -33,8 +33,8 @@
 ---
 
 ### 🎮 **Gaming & Content Creation**
-🎥 **YouTube:** [Kenyan Senpai](https://www.youtube.com/channel/@kenyansenpai) *(Game the Kenyan Way!)*  
-🎮 **Twitch:** [Kenyansenpai](https://www.twitch.tv/kenyansenpai)  
+🎥 **YouTube:** [Kenyan Senpai](https://www.youtube.com/@kenyansenpai) *(Game the Kenyan Way!)*  
+🎮 **Twitch:** [Kenyansenpai](https://www.twitch.tv/kenyansenpai_)  
 📱 **TikTok & Instagram:** [@kenyansenpai](https://www.tiktok.com/@kenyansenpai)  
 
 ---
