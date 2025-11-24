@@ -1,0 +1,46 @@
+name: Latest YouTube Videos and Blog Posts
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull in YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQFSqMyGP0mW3-9pZYJnqw"
+          max_post_count: 6
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌟) [$title]($url)$newline"
+          committer_username: "murayajoe"
+          committer_email: "joemuraya90@gmail.com"
+          commit_message: "Updated with the latest YouTube videos"
+          date_format: "mmm dd, yyyy"
+
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://dev.to/feed/YOUR_USERNAME_HERE"
+          max_post_count: 5
+          template: "$newline- 📝 [$title]($url) - $date$newline"
+          committer_username: "murayajoe"
+          committer_email: "joemuraya90@gmail.com"
+          commit_message: "Updated with the latest blog posts"
+          date_format: "mmm dd, yyyy"
