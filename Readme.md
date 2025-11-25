@@ -111,8 +111,11 @@ me.say_hi()
 
 <div align="center">
 
-[![Odoo Custom Modules](https://github-readme-stats.vercel.app/api/pin/?username=murayajoe&repo=odoo-custom-modules&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/murayajoe/odoo-custom-modules)
-[![Kenya ERP Solutions](https://github-readme-stats.vercel.app/api/pin/?username=murayajoe&repo=kenya-erp-solutions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/murayajoe/kenya-erp-solutions)
+### 📚 [SOMA Story Hub](https://soma-story-hub.vercel.app/)
+> Interactive storytelling platform built with modern web technologies
+
+### 🏢 [ClickPOA Odoo Modules](https://apps.odoo.com/apps/modules/browse?search=clickpoa)
+> Custom Odoo modules for property management and business automation
 
 </div>
 
@@ -135,15 +138,13 @@ me.say_hi()
 
 ## 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<div align="center">
 
----
+🎮 **New content coming soon!** Subscribe to [@senpaicodeske](https://youtube.com/@senpaicodeske) to get notified!
 
-## 📝 Latest Blog Posts
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribe&color=FF0000)](https://youtube.com/@senpaicodeske)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div>
 
 ---
 
@@ -192,10 +193,16 @@ goals2025.execute();
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Gaming Stats & Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/murayajoe/murayajoe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+### Pac-Man Eating My Contributions 👾
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man animation" />
+
+### Game Over? Never! 🕹️
+<img src="https://github-readme-stats.vercel.app/api?username=murayajoe&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=ff6e96&icon_color=feca57&text_color=00d2d3&rank_icon=github" alt="Gaming-themed Stats" />
+
 </div>
 
 ---
