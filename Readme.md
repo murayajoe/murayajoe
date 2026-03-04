@@ -114,7 +114,7 @@ me.say_hi()
 ### 📚 [SOMA Story Hub](https://soma-story-hub.vercel.app/)
 > Interactive storytelling platform built with modern web technologies
 
-### 🏢 [ClickPOA Odoo Modules](https://apps.odoo.com/apps/modules/browse?search=clickpoa)
+### 🏢 [ClickPOA Odoo Modules](https://apps.odoo.com/apps/modules/browse?search=click poa)
 > Custom Odoo modules for property management and business automation
 
 </div>
