@@ -197,7 +197,7 @@ goals2025.execute();
 
 <div align="center">
 
-### Pac-Man Eating My Contributions 👾
+### Snake Eating My Contributions 👾
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man animation" />
 
 ### Game Over? Never! 🕹️
